@@ -1,1 +1,5 @@
+**Project Description**
+
 The goal of this project is to illustrate specific aspects of crimes in the US and Europe. Heatmaps, geographic maps, forecast tools, and other visual analytics tools were utilized to gather crime datasets from public sources, identify trends and hotspots, and project future crime rates.
+
+The Word documentation gives more details.
